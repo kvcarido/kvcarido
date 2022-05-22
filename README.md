@@ -1,6 +1,3 @@
 ## Hi, I'm Kayleen 👋🏽
 
-🇵🇭 First generation Filipina from Queens, New York City\
-🌴 Currently residing in Los Angeles\
-🧩 An autodidact navigating through the world of tech\
-✨ Endlessly curious about all things frontend, inclusive design, and open source
+I'm a first-generation Filipina from Queens, New York with a boundless desire to explore and learn. An autodidact since my early days on the internet, my curiosities range within all things frontend, open source, and inclusive digital communities. 
