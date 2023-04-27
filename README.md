@@ -3,16 +3,9 @@
 </p>
 
 
-💫 Hi, I'm Kayleen (she / her) – I'm a first-generation Filipina from Queens, New York with a boundless desire to explore and learn. An autodidact since my early days on the internet, my curiosities range within all things frontend, open source, and inclusive digital communities. 
+💫 Hi, I'm Kayleen (she / her) – I'm a first-generation Filipina from Queens, New York with a forever-the-student approach to life. An autodidact since my early days on the internet, I'm interested in open source, digital communities, and how data tells a story. Offline I enjoy learning about urban gardening 🌱, teaching my dog new tricks 🐕, and the New York Knicks 🏀.
 
 ## Currently...
-...exploring the world of data engineering and it's possibilities
+...exploring the possibilities of data engineering 
 
-...updating sections of [TIL](https://github.com/kvcarido/til)
-
-## Get in Touch
-💬 Twitter – [https://twitter.com/kvcarido](https://twitter.com/kvcarido)
-
-
-📝 Blog – [https://blog.kayleen.tech](https://blog.kayleen.tech)
-_under construction_
+...re-building my website using [Eleventy](https://11ty.dev)
