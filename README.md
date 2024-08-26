@@ -1,5 +1,3 @@
 ### 💫 Hello! I'm Kayleen
 
-NYC-based IT Manager exploring the world of data engineering. 
-
-I have a deep curiosity about how data shapes society. I'm drawn to open source tools and concepts that streamline the data journey.
+First-gen Filipina, student of life and the ever-changing tech landscape. My curiosity about how data shapes our world keeps me eager to learn.
