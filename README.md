@@ -1,3 +1,3 @@
 ### 💫 Hello! I'm Kayleen
 
-First-gen Filipina, student of life and the ever-changing tech landscape. My curiosity about how data shapes our world keeps me eager to learn.
+New Yorker in LA. First-gen Filipina, student of life and the ever-changing tech landscape. My curiosity about how data shapes our world keeps me eager to learn.
